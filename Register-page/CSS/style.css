@@ -1,0 +1,108 @@
+/* form */
+.form {
+    margin-top: 20%
+}
+/* forgot password */
+small{
+    margin-left: 150px;
+}
+/* text logo */
+.wrap-text-logo{
+    margin-top: 25%;
+}
+.textlogo {
+    font-size: 12pt;
+    color: black; 
+}
+/* button login & submit */
+button {
+    width: 30%;
+}
+
+/* cover left */
+.text-cover {
+    /* display: none; */
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+
+.textone {
+    position: absolute;
+    color: #F9F9F9;
+    margin-top: 8%;
+    margin-left: 5%;
+    font-size: 60pt;
+}
+.texttwo {
+    position: absolute;
+    color: #F9F9F9;;
+    margin-top: 20%;
+    margin-left: 5%;
+    font-size: 60pt;
+}
+
+@media screen and (max-width:768px){
+    .coverleft{
+        display: none;
+    }
+    .textone {
+        position: absolute;
+        color: #F9F9F9;
+        margin-top: 8%;
+        margin-left: 5%;
+        font-size: 60pt;
+        display: none;
+    }
+    .texttwo {
+        position: absolute;
+        color: #F9F9F9;;
+        margin-top: 20%;
+        margin-left: 5%;
+        font-size: 60pt;
+        display: none;
+    }
+
+
+} 
+
+@media screen and (max-width: 375px){
+  
+    .textone {
+        position: absolute;
+        color: #F9F9F9;
+        margin-top: 8%;
+        margin-left: 5%;
+        font-size: 60pt;
+        display: none;
+    }
+    .texttwo {
+        position: absolute;
+        color: #F9F9F9;;
+        margin-top: 20%;
+        margin-left: 5%;
+        font-size: 60pt;
+        display: none;
+    }
+}
+
+@media screen and (max-width: 1024px){
+    .textone {
+        position: absolute;
+        color: #F9F9F9;
+        margin-top: 8%;
+        margin-left: 5%;
+        font-size: 50pt;
+        
+    }
+    .texttwo {
+        position: absolute;
+        color: #F9F9F9;;
+        margin-top: 20%;
+        margin-left: 5%;
+        font-size: 50pt;
+        
+    }
+}
+
+

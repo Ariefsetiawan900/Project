@@ -1,0 +1,137 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"
+        integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+    <!-- CSS -->
+    <link rel="stylesheet" href="css/style.css">
+    <!-- font Awesome -->
+    <link rel="stylesheet" href="fontawesome-free-5.12.1-web/css/all.min.css">
+    <title>Detail page</title>
+</head>
+
+<body>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+
+                <!-- menu item -->
+                <span id="span" class="text-light "> <i class="fa fa-arrow-circle-left"></i></span>
+                <div class="menu-item text-right text">
+                    <a href="#" class="pr-3 text-light font-weight-bold " id="text1" data-toggle="modal" data-target="#modalEdit"
+                        data-whatever="@mdo">Edit</a>
+                    <a href="#" class="text-light font-weight-bold" id="text2" data-toggle="modal" data-target="#modalDelete">Delete</a>
+
+                    <!-- modal edit -->
+                    <div class="modal fade" id="modalEdit" tabindex="-1" role="dialog"
+                        aria-labelledby="modalEditLabel" aria-hidden="true">
+                        <div class="modal-dialog" role="document">
+                            <div class="modal-content">
+                                <div class="modal-header">
+                                    <h5 class="modal-title" id="modalEditLabel">Edit Data</h5>
+                                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                        <span aria-hidden="true" style="right: 1%;"> &times; </span>
+                                    </button>
+                                </div>
+                                <div class="modal-body">
+                                    <form>
+                                        <div class="form-group">
+                                            <label for="recipient-name" class="col-form-label" style="float: left;">Url
+                                                image:</label>
+                                            <input type="text" class="form-control" id="Url-image"
+                                                placeholder="http://gambar.com/dilan.jpg">
+                                        </div>
+                                        <div class="form-group">
+                                            <label for="recipient-name" class="col-form-label"
+                                                style="float: left;">Title:</label>
+                                            <input type="text" class="form-control" id="title" placeholder="Dilan 1990">
+                                        </div>
+                                        <div class="form-group">
+                                            <label for="message-text" class="col-form-label"
+                                                style="float: left;">Description:</label>
+                                            <textarea class="form-control" id="description"
+                                                placeholder="lorem ipsum"></textarea>
+                                        </div>
+                                    </form>
+                                </div>
+                                <div class="modal-footer">
+                                    <button type="button" class="btn btn-warning">Send</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- modal delete -->
+                    <div class="modal fade" id="modalDelete" tabindex="-1" role="dialog" aria-labelledby="modalDeleteLabel" aria-hidden="true">
+                        <div class="modal-dialog" role="document">
+                          <div class="modal-content">
+                            <div class="modal-header">
+                              
+                              <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                <span aria-hidden="true">&times;</span>
+                              </button>
+                            </div>
+                            <div class="modal-body">
+                              <img src="./img/checked.png" alt="checked succes" class="modalDelete">
+                              <p class="pt-1">Data <b>Dilan 1990 </b> berhasil dihapus!</p>
+                            </div>
+                            
+                          </div>
+                        </div>
+                      </div>
+
+                    <!-- close modal -->
+
+                </div>
+                <!-- cover photo -->
+                <img src="./img/bigcover.png" alt="big cover dilan" id="cover1">
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-8 bg-light">
+                <button type="submit" class="btn btn-warning font-weight-bold mt-2" id="novel">Novel</button>
+                <p class="text-success font-weight-bold mt-3" id="available">Available</p>
+                <div id="content" class="pl-2">
+                    <h1>DILAN 1990</h1>
+                    <h5>30 Juni 2019</h5><br>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Incidunt veniam nisi ullam tempore, odio
+                        necessitatibus cum iusto, in fugit aliquam repudiandae fugiat esse, voluptates nesciunt unde
+                        molestiae ipsam placeat inventore.
+                        Amet inventore vero praesentium, nam similique aspernatur reprehenderit possimus ex molestias
+                        quo doloremque distinctio vel impedit, fugit facilis non nobis mollitia neque voluptas ab
+                        consequuntur totam quod? Consequatur, quidem. Mollitia.
+                        Maxime alias sapiente cum quae nam similique iure dolore ducimus voluptatum nostrum repellat
+                        rerum odio asperiores eligendi natus ratione quam provident, aspernatur nihil repellendus. Quasi
+                        voluptatibus corrupti fugiat perspiciatis magnam?</p>
+                </div>
+            </div>
+            <!-- button -->
+            <div class="col-md-4 bg-light">
+                <img src="./img/smallcover.png" alt="DILAN" id="dilan">
+                <button type="submit" class="btn btn-warning text-light font-weight-bold mt-2 "
+                    id="borrow">Borrow</button>
+            </div>
+
+        </div>
+    </div>
+
+    <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js"
+        integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n"
+        crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"
+        integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo"
+        crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"
+        integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6"
+        crossorigin="anonymous"></script>
+</body>
+
+</html>

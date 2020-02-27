@@ -1,0 +1,183 @@
+/* main cover */
+#cover1{
+    width: 100%;
+    background-size: cover;
+}
+/* button novel */
+#novel{
+    border-radius: 200px;
+    width: 20%;
+}
+#available{
+    position: absolute;
+    margin-left: 80%;
+    font-size: large;
+    
+}
+/* card picture */
+#dilan{
+    position: relative;
+    margin-left: 20%;
+    bottom: 40%;
+    
+}
+/* button bottom */
+#borrow{
+    margin-left: 30%;
+    width: 50%;
+}
+/* menu-top */
+.menu-item{
+    position: absolute;
+    display: flex;
+    left: 80%;
+    top: 10%;
+    font-size: 20pt; 
+     
+}
+#text1, #text2{
+    text-shadow: 0px 4px 5px black; 
+}
+
+#span{
+    position: absolute;
+    font-size: 25pt;
+    margin-left: 1%;
+    top: 10%;
+}
+/* modal delete */
+.modalDelete{
+    margin-right: 30%;
+   
+}
+
+@media screen and (max-width:991px){
+    #dilan{
+        width: 80%;
+        position: relative;
+        margin-left: 5%;
+        bottom: 25%;
+        
+    }
+    .menu-item{
+        position: absolute;
+        display: flex;
+        left: 70%;
+        top: 10%;
+        font-size: 20pt; 
+        
+    }
+}
+
+@media screen and (max-width:767px){
+    #dilan{
+        width: 50%;
+        margin-left: 25%;
+        bottom: 1%;
+        
+    }
+    .menu-item{
+        position: absolute;
+        display: flex;
+        left: 69%;
+        top: 10%;
+        font-size: 20pt; 
+        
+    }
+}
+@media screen and (max-width:360px){
+    #dilan{
+        width: 50%;
+        margin-left: 25%;
+        bottom: 1%;
+        
+    }
+    .menu-item{
+        position: absolute;
+        display: flex;
+        left: 60%;
+        top: 10%;
+        font-size: 15pt; 
+        
+    }
+    #available{
+        position: absolute;
+        margin-left: 70%;
+        font-size: large;
+        
+    }
+}
+@media screen and (max-width:411px){
+    #dilan{
+        width: 50%;
+        margin-left: 25%;
+        bottom: 1%;
+        
+    }
+    .menu-item{
+        position: absolute;
+        display: flex;
+        left: 60%;
+        top: 10%;
+        font-size: 18pt; 
+        
+    }
+    #available{
+        position: absolute;
+        margin-left: 70%;
+        font-size: large;
+        
+    }
+}
+@media screen and (max-width:320px){
+    #dilan{
+        width: 50%;
+        margin-left: 25%;
+        bottom: 1%;
+        
+    }
+    .menu-item{
+        position: absolute;
+        display: flex;
+        left: 53%;
+        top: 10%;
+        font-size: 18pt; 
+        
+    }
+    #available{
+        position: absolute;
+        margin-left: 70%;
+        font-size: large;
+        
+    }
+    #novel{
+        border-radius: 200px;
+        width: 23%;
+    }
+}
+@media screen and (max-width:414px){
+    #dilan{
+        width: 50%;
+        margin-left: 25%;
+        bottom: 1%;
+        
+    }
+    .menu-item{
+        position: absolute;
+        display: flex;
+        left: 55%;
+        top: 10%;
+        font-size: 18pt; 
+        
+    }
+    #available{
+        position: absolute;
+        margin-left: 70%;
+        font-size: large;
+        
+    }
+    #novel{
+        border-radius: 200px;
+        width: 23%;
+    }
+}
