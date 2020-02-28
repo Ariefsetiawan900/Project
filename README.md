@@ -3,7 +3,7 @@ continue Assignments/project
 
 <ol>
 <li><b>Index.html or Login Page responsive</b>
-<img src:"img/Screenshots/Login-page.jpg" alt="Loading page" width="50%"></img>
+<img src="img/Screenshots/Login-page.jpg" alt="Loading page" width="50%"></img>
 <img src="img/Screenshots/Login-page-responsive.jpg" alt="Loading page" width="50%"></img>
 </li>
 
