@@ -5,12 +5,12 @@ continue Assignments/project
 <img src="img/Screenshots/Login-page.jpg" alt="login page" width="80%" ></img>
 <h3>Login page with responsive</h3>
 <img src="img/Screenshots/Login-page-responsive.jpg" alt="login page" width="80%" ></img>
-
+<br>
 <h3>2. Register.html  first look</h3>
 <img src="img/Screenshots/Login-register.jpg" alt="Register page" width="80%" ></img>
 <h3>Register page with responsive</h3>
 <img src="img/Screenshots/Login-register-responsive.jpg" alt="Register page" width="80%" ></img>
-
+<br>
 <h3>3. Home.html first look </h3>
 <img src="img/Screenshots/home-page-sidebar.jpg" alt="Loading page" width="80%" ></img>
 <h3>Home page no use sidebar</h3>
