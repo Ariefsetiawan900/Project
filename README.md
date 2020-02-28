@@ -1,5 +1,8 @@
-# Project
-continue Assignments/project
+<h1>Continue Assignments/project week1</h1>
+<h2>By : Arief Setiawan(arief.setiawan8788@gmail.com)</h2>
+
+Reference My Assignments : https://www.figma.com/file/Mj3THivoX0IaTPEZ4vJZoajw/Books?node-id=1%3A45
+
 
 <h3>1. Index.html or first look by login page </h3>
 <img src="img/Screenshots/Login-page.jpg" alt="login page" width="80%" ></img>
@@ -46,4 +49,4 @@ continue Assignments/project
 
 
 
-Reference My Assignments : https://www.figma.com/file/Mj3THivoX0IaTPEZ4vJZoajw/Books?node-id=1%3A45
+
