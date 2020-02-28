@@ -23,6 +23,13 @@ continue Assignments/project
 <img src="img/Screenshots/home-page-responsive-sidebar.jpg" alt="Loading page" width="80%" ></img>
 <h3>Modal home responsive</h3>
 <img src="img/Screenshots/modal-home-responsive.jpg" alt="Loading page" width="80%" ></img>
+<br>
+<h3>4. Detail .html first look </h3>
+<img src="img/Screenshots/detail.jpg" alt="Loading page" width="80%" ></img>
+<h3>Modal Edit data with boostrapk </h3>
+<img src="img/Screenshots/detail-editdata.jpgg" alt="Loading page" width="80%" ></img>
+<h3>Modal delete with boostrap </h3>
+<img src="img/Screenshots/detail-delete.jpg" alt="Loading page" width="80%" ></img>
 
 
 
