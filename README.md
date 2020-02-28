@@ -16,34 +16,34 @@ Reference My Assignments : https://www.figma.com/file/Mj3THivoX0IaTPEZ4vJZoajw/B
 <img src="img/Screenshots/Login-register-responsive.jpg" alt="Register page" width="80%" ></img>
 <br>
 <h3><a href="Home.html">3. Home.html first look</a> </h3>
-<img src="img/Screenshots/home-page-sidebar.jpg" alt="Loading page" width="80%" ></img>
+<img src="img/Screenshots/home-page-sidebar.jpg" alt="Home page" width="80%" ></img>
 <h3>Home page no use sidebar</h3>
-<img src="img/Screenshots/home-page-nonsidebar.jpg" alt="Loading page" width="80%" ></img>
+<img src="img/Screenshots/home-page-nonsidebar.jpg" alt="Home page" width="80%" ></img>
 <h3>Modal with boostrap</h3>
-<img src="img/Screenshots/modal-home.jpg" alt="Loading page" width="80%" ></img>
+<img src="img/Screenshots/modal-home.jpg" alt="Home page" width="80%" ></img>
 
 <h3>Home page responsive</h3>
-<img src="img/Screenshots/home-page-responsive.jpg" alt="Loading page" width="80%" ></img>
+<img src="img/Screenshots/home-page-responsive.jpg" alt="Home page" width="80%" ></img>
 <h3>Home page responsive with sidebar</h3>
-<img src="img/Screenshots/home-page-responsive-sidebar.jpg" alt="Loading page" width="80%" ></img>
+<img src="img/Screenshots/home-page-responsive-sidebar.jpg" alt="Home page" width="80%" ></img>
 <h3>Modal home responsive</h3>
-<img src="img/Screenshots/modal-home-responsive.jpg" alt="Loading page" width="80%" ></img>
+<img src="img/Screenshots/modal-home-responsive.jpg" alt="Home page" width="80%" ></img>
 <br>
 <h3><a href="detail.html">4. Detail .html first look</a> </h3>
-<img src="img/Screenshots/detail.jpg" alt="Loading page" width="80%" ></img>
+<img src="img/Screenshots/detail.jpg" alt="Detail page" width="80%" ></img>
 <h3>Modal Edit data with boostrapk </h3>
-<img src="img/Screenshots/detail-editdata.jpgg" alt="Loading page" width="80%" ></img>
+<img src="img/Screenshots/detail-editdata.jpgg" alt="Detail page" width="80%" ></img>
 <h3>Modal delete with boostrap </h3>
-<img src="img/Screenshots/detail-delete.jpg" alt="Loading page" width="80%" ></img>
+<img src="img/Screenshots/detail-delete.jpg" alt="Detail page" width="80%" ></img>
 
-<h3>4. Detail.html responsive top </h3>
-<img src="img/Screenshots/detail-rensponsive1.jpg" alt="Loading page" width="80%" ></img>
+<h3>Detail.html responsive top </h3>
+<img src="img/Screenshots/detail-rensponsive1.jpg" alt="Detail page" width="80%" ></img>
 <h3>Detail .html responsive bottom with bootrap</h3>
-<img src="img/Screenshots/detail-rensponsive2.jpg" alt="Loading page" width="80%" ></img>
+<img src="img/Screenshots/detail-rensponsive2.jpg" alt="Detail page" width="80%" ></img>
 <h3>Detail responsive modal edit data with boostrap</h3>
-<img src="img/Screenshots/detail-rensponsive-modal1.jpg" alt="Loading page" width="80%" ></img>
+<img src="img/Screenshots/detail-rensponsive-modal1.jpg" alt="Detail page" width="80%" ></img>
 <h3>Detail responsive modal delete with boostrap</h3>
-<img src="img/Screenshots/detail-rensponsive-modal2.jpg" alt="Loading page" width="80%" ></img>
+<img src="img/Screenshots/detail-rensponsive-modal2.jpg" alt="Detail page" width="80%" ></img>
 
 
 
